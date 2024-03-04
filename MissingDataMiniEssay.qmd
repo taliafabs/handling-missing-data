@@ -1,0 +1,64 @@
+---
+title: "Missing Data and How to Handle It"
+subtitle: "My subtitle if needed"
+author: 
+  - Talia Fabregas
+thanks: "Code and data are available at: "
+date: today
+date-format: long
+abstract: "Datasets can have missing variables. These variables can be missing completely at random missing at randon; or missing not at random. Missing data can never be made up and there is no one-size-fits-all way to handle missing data; exploratory data analysis is often. an essential step towards determining the appropriate way to handle missing data. "
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+# Introduction
+Sometimes, a dataset can have missing variables.
+
+
+# Exploratory Data Analysis {#sec-eda}
+
+# Types of Missing Data {#sec-types}
+
+
+
+
+# How to Handle Missing Data {#sec-handle}
+
+# Missing Data as Part of the Story the Dataset Tells {#sec-story}
+
+
+
+
+
+
+
+# Discussion
+
+## First discussion point {#sec-first-point}
+
+If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
+
+## Second discussion point
+
+## Third discussion point
+
+## Weaknesses and next steps
+
+Weaknesses and next steps should also be included.
+
+\newpage
+
+\appendix
+
+# Appendix {-}
+
+
+# Additional data details
+
+
+
+\newpage
+
+
+# References
